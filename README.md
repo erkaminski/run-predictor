@@ -108,9 +108,6 @@ python setup.py install
 3. Run predictions by providing input features (distance, elevation, heart rate, etc.).
 The model returns predicted race time for different performance levels.
 
-Demo: previously deployed (link no longer active)
-https://benito-p-run-pred-front-page-web-roqy7e.streamlit.app/
-
 ---
 
 ## 📝 Notes
