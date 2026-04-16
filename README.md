@@ -94,21 +94,21 @@ Model used: **Stacking Regressor**
 
 ## ▶️ Usage
 
-Install dependencies:
+1. Install dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Install the package:
+2. Install the package:
 ```bash
 python setup.py install
 ```
 
-Run predictions by providing input features (distance, elevation, heart rate, etc.).
+3. Run predictions by providing input features (distance, elevation, heart rate, etc.).
 The model returns predicted race time for different performance levels.
 
-Demo:
+Demo: previously deployed (link no longer active)
 https://benito-p-run-pred-front-page-web-roqy7e.streamlit.app/
 
 ---
