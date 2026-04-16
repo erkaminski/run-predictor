@@ -7,7 +7,7 @@ Predict race times using machine learning based on running activity data.
 
 ---
 
-## Overview
+## 📊 Overview
 
 This project builds a regression model to predict race time from features such as distance, elevation, heart rate, and time of day.
 
@@ -22,7 +22,7 @@ The model outputs three predictions based on different performance levels.
 
 ---
 
-## Data
+## 🗂 Data
 
 Main features:
 
@@ -36,7 +36,7 @@ Main features:
 
 ---
 
-## Pipeline
+## ⚙️ Pipeline
 
 The workflow is split into several steps:
 
@@ -63,7 +63,7 @@ The workflow is split into several steps:
 
 ---
 
-## Final Dataset
+## 🧩 Final Dataset
 
 26 features including:
 
@@ -124,7 +124,10 @@ Results depend on dataset quality and distribution
 
 This project was developed collaboratively in 2023 by:
 
-simonchartan-lewagon
-TomP81
 erkaminski
+
+simonchartan-lewagon
+
+TomP81
+
 benito-p
