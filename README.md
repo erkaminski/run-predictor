@@ -124,10 +124,10 @@ Results depend on dataset quality and distribution
 
 This project was developed collaboratively in 2023 by:
 
-erkaminski
+erkaminski - *Eryk KAMINSKI*
 
-simonchartan-lewagon
+simonchartan-lewagon - *Simon CHARTAN* 
 
-TomP81
+TomP81 - *Thomas PUECH*
 
-benito-p
+benito-p - *Benoit PYPE*
