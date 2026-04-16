@@ -3,7 +3,9 @@
 
 # Trail Running Race Predictor
 
-Predict race times using machine learning based on running activity data.
+PPredict race times using machine learning based on running activity data.
+
+Focus: feature engineering and stacked ensemble models.
 
 ---
 
@@ -111,9 +113,9 @@ The model returns predicted race time for different performance levels.
 ---
 
 ## 📝 Notes
-Built as a team project in 2023
-Focus on feature engineering and pipeline structure
-Results depend on dataset quality and distribution
+- Built as a team project in 2023  
+- Focus on feature engineering and pipeline structure  
+- Results depend on dataset quality and distribution
 
 ---
 
